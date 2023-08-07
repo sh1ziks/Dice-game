@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\PR\Project\Visual Studio\dice game(SFML)\dice game(SFML)\main.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dice game(SFML).vcxproj -> D:\PR\Project\Visual Studio\dice game(SFML)\x64\Debug\dice game(SFML).exe
